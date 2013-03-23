@@ -4,7 +4,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='huey',
-    version="0.3.2",
+    version="gauge",
     description='huey, a little task queue',
     author='Charles Leifer',
     author_email='coleifer@gmail.com',
